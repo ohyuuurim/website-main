@@ -197,6 +197,7 @@ nav{
 
 /*좌우버튼*/
 .mainicon{
+  font-family: xeicon;
   font-size: 40px;
   color: #333;
   background-color:#fff;
